@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "social-app-b59e2"
+  },
+  "targets": {
+    "social-app-b59e2": {
+      "hosting": {
+        "tinder-clone": [
+          "tinder-clone-graffic-traffic"
+        ]
+      }
+    }
+  }
+}
